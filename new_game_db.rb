@@ -96,7 +96,7 @@ names_list = ["Jimbob",
 		"Gandoff the Grody", 
 		"Borky Bork-Bork", 
 		"Glibberdorff the Veracious", 
-		"Roberta Millstein", 
+		"Broberta Killstein", 
 		"Sven Somethingson"] 
 	available_enemies = []
 
@@ -190,11 +190,6 @@ end
 	# 						["some history maybes?"])
 	# available_enemies << z
 	# names_list.delete(z.name)
-
-
-
-
-
 
 
 

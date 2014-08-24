@@ -64,7 +64,7 @@ def new_game
 		"Gandoff the Grody", 
 		"Borky Bork-Bork", 
 		"Glibberdorff the Veracious", 
-		"Roberta Millstein", 
+		"Broberta Killstein", 
 		"Sven Somethingson"] 
 	available_enemies = []
 
